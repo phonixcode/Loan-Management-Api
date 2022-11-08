@@ -16,7 +16,7 @@ Loan Management API endpoints for loan management app.
 ```sh
 - mkdir loanApp
 - cd loanApp
-- git clone https://github.com/sumedhbhaskar/loan-management-app .
+- git clone https://github.com/phonixcode/Loan-Management-Api.git .
 - python -m venv myenv
 - myenv\Scripts\activate
 - pip install -r requirements.txt
